@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">truecallertest</string>
+    <string name="load_data">Load data</string>
+    <string name="api_key">api_key_here</string>
+    <string name="something_went_wrong">something went wrong.</string>
+    <string name="level1">First 15th character </string>
+    <string name="level2">Multiples of 15 character </string>
+    <string name="level3">Every unique words count </string>
+</resources>
